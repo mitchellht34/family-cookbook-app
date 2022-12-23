@@ -15,7 +15,7 @@ SQLite, you will need to make the following changes in the project files:
 
 ## Requirements
 
-- Ruby 2.7.4
+- Ruby 3.1.0
 - NodeJS (v16), and npm
 - Render account
 - Postgresql
@@ -177,10 +177,10 @@ Verify which version of Ruby you're running by entering this in the terminal:
 $ ruby -v
 ```
 
-We recommend version 2.7.4. If you need to upgrade you can install it using rvm:
+We recommend version 3.1.0. If you need to upgrade you can install it using rvm:
 
 ```console
-$ rvm install 2.7.4 --default
+$ rvm install 3.1.0 --default
 ```
 
 You should also install the latest versions of `bundler` and `rails`:
